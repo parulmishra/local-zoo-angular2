@@ -1,0 +1,29 @@
+h1
+{
+  margin-left: 320px;
+  font-size: 70px;
+  margin-bottom: 100px;
+  font: #330000;
+}
+#heading
+{
+  background-image: url("./resources/images/header.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 500px;
+  margin-bottom: 0px;
+}
+.filter
+{
+  margin-left: 300px;
+  margin-right: 20px;
+  font-size: 20px;
+}
+#editbutton
+{
+  margin-left: 250px;
+}
+#list2 { width:320px; }
+#list2 ol { font-style:italic; font-family:Georgia, Times, serif; font-size:24px; color:#bfe1f1;  }
+#list2 ol li p { padding:8px; font-style:normal; font-family:Arial; font-size:30px; color:#eee; border-left: 1px solid #999; }
+#list2 ol li p em { display:block; }
