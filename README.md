@@ -8,7 +8,6 @@ _This Angular application allows the user to view all the animals in the zoo. Th
 
 | Behavior  | Input  | Output  |
 |---|---|---|
-
 |1.  The default view for the application is all animals in the zoo. When the user filter the results by age a filtered list of animals is displayed. | > age filter selected:  young | filtered list displayed.
 |2.  The default view for the application is all animals in the zoo. When the user filter the results by diet a filtered list of animals is displayed | > diet filter selected:  carnivorous | >filtered list displayed.
 |3.  The default view for the application is all animals in the zoo. When the user filter the results by age and diet a filtered list of animals is displayed | > age filter selected: young and diet filter selected:  carnivorous | >filtered list displayed.
